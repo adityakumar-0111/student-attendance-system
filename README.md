@@ -41,7 +41,7 @@ This project helps manage student attendance digitally with an easy-to-use inter
 ├── package.json
 └── README.md
 
-
+---
 
 ## ⚙️ How to Run This Project
 
@@ -68,8 +68,10 @@ npm start
 After running the project, open your browser and go to:
 http://localhost:3000
 
+---
 
-👨‍💻 Author
-👤 Aditya Kumar
-🔗 GitHub: https://github.com/adityakumar-0111
+## 👨‍💻 Author
+
+👤 **Aditya Kumar**  
+🔗 GitHub: https://github.com/adityakumar-0111  
 📌 Project: Student Attendance Management System
