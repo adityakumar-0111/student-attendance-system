@@ -27,3 +27,16 @@ This project helps manage student attendance digitally with an easy-to-use inter
 ---
 
 ## 📂 Project Structure
+
+student-attendance-system/
+│
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── App.js
+│ └── index.js
+│
+├── index.html
+├── package.json
+└── README.md
