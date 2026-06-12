@@ -40,3 +40,9 @@ This project helps manage student attendance digitally with an easy-to-use inter
 ├── index.html
 ├── package.json
 └── README.md
+
+## 👨‍💻 Author
+
+👤 **Aditya Kumar**  
+🔗 GitHub: https://github.com/adityakumar-0111  
+📌 Project: Student Attendance Management System
