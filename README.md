@@ -52,17 +52,17 @@ Follow these steps to run the project on your local machine:
 git clone https://github.com/adityakumar-0111/student-attendance-system.git
 
 
-2️⃣ Go to project folder
+###2️⃣ Go to project folder
 cd student-attendance-system
-3️⃣ Install dependencies (only if React project)
+###3️⃣ Install dependencies (only if React project)
 npm install
-4️⃣ Start the project
+###4️⃣ Start the project
 npm start
-🌐 Open in browser
+####🌐 Open in browser
 
-After starting the project, open your browser and go to:
+##After starting the project, open your browser and go to:
 
-http://localhost:3000
+#####http://localhost:3000
 
 
 ## 👨‍💻 Author
