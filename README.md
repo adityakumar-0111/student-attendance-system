@@ -10,6 +10,8 @@ This project helps manage student attendance digitally and keeps track of each s
 💾 Data stored using Local Storage (or database if implemented)
 📊 Easy-to-use and responsive UI
 🔍 View attendance records anytime
+
+
 🛠️ Tech Stack
 HTML5
 CSS3
@@ -17,6 +19,7 @@ JavaScript (ES6)
 React (if used in your project)
 Local Storage / JSON data handling
 📂 Project Structure
+
 student-attendance-system/
 │
 ├── public/
